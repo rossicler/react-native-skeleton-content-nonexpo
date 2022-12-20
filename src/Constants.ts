@@ -41,8 +41,8 @@ export const DEFAULT_DURATION = 1200;
 export const DEFAULT_ANIMATION_TYPE: _animationType = 'shiver';
 export const DEFAULT_ANIMATION_DIRECTION: _animationDirection =
   'horizontalRight';
-export const DEFAULT_BONE_COLOR = '#E1E9EE';
-export const DEFAULT_HIGHLIGHT_COLOR = '#F2F8FC';
+export const DEFAULT_BONE_COLOR = '#D9D9D9';
+export const DEFAULT_HIGHLIGHT_COLOR = '#F8F8FF';
 export const DEFAULT_EASING: Animated.EasingFunction = Easing.bezier(
   0.5,
   0,
